@@ -1,11 +1,12 @@
-title: Your awesome title
-description: >-
-  Description
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+title: Simplify
+description: Simplify is a set of .NET libraries that provide infrastructure for your applications. DI and mocking friendly.
 
-# Build settings
+baseurl: ""
+url: "https://simplifynet.dev"
+repository: "SimplifyNet/Simplify"
+templates_repository_url: "https://github.com/SimplifyNet/Simplify.ProjectsTemplates"
+
+simplify_web_url: "https://web.simplifynet.dev"
+
 markdown: kramdown
-theme: jekyll-theme-slate
-# plugins:
-#   - jekyll-feed
+theme: jekyll-theme-midnight
