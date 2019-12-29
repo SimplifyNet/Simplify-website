@@ -4,6 +4,8 @@ description: Simplify is a set of .NET libraries that provide infrastructure for
 baseurl: ""
 url: "https://simplifynet.dev"
 repository: "SimplifyNet/Simplify"
+
+simplify_repository_url: "https://github.com/SimplifyNet/Simplify"
 templates_repository_url: "https://github.com/SimplifyNet/Simplify.ProjectsTemplates"
 
 simplify_web_url: "https://web.simplifynet.dev"
