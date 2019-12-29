@@ -264,3 +264,20 @@ XML extension functions and serializer.
 [![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/nuget/Simplify.Windows.Forms)](https://libraries.io/nuget/Simplify.Windows.Forms)
 
 `Simplify.Windows.Forms` controls set.
+
+## Contributing
+
+There are many ways in which you can participate in the project. Like most open-source software projects, contributing code is just one of many outlets where you can help improve. Some of the things that you could help out with are:
+
+- Documentation (both code and features)
+- Bug reports
+- Bug fixes
+- Feature requests
+- Feature implementations
+- Test coverage
+- Code quality
+- Sample applications
+
+## License
+
+Licensed under the GNU LESSER GENERAL PUBLIC LICENSE
