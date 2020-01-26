@@ -4,7 +4,7 @@
 
 [![Nuget Version](https://img.shields.io/nuget/v/Simplify.DI)](https://www.nuget.org/packages/Simplify.DI)
 [![Nuget Download](https://img.shields.io/nuget/dt/Simplify.DI)](https://www.nuget.org/packages/Simplify.DI)
-![Platform](https://img.shields.io/badge/platform-.NET%20Standard%201.0%20%7C%20.NET%204.5.2-lightgrey)
+![Platform](https://img.shields.io/badge/platform-.NET%20Core%203.1%20%7C%20.NET%20Standard%202.0%20%7C%20.NET%20Standard%201.0%20%7C%20.NET%204.5.2-lightgrey)
 [![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/nuget/Simplify.DI)](https://libraries.io/nuget/Simplify.DI)
 [![Documentation](https://img.shields.io/badge/docs-green)](https://github.com/SimplifyNet/Simplify/wiki/Simplify.DI)
 
