@@ -149,7 +149,7 @@ Package for getting localizable strings from assembly resource files.
 
 [![Nuget Version](https://img.shields.io/nuget/v/Simplify.System)](https://www.nuget.org/packages/Simplify.System)
 [![Nuget Download](https://img.shields.io/nuget/dt/Simplify.System)](https://www.nuget.org/packages/Simplify.System)
-![Platform](https://img.shields.io/badge/platform-.NET%20Standard%202.0%20%7C%20.NET%204.5.2-lightgrey)
+![Platform](https://img.shields.io/badge/platform-.NET%20Standard%202.0%20%7C%20.NET%20Core%203.1%20%7C.NET%204.5.2-lightgrey)
 [![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/nuget/Simplify.System)](https://libraries.io/nuget/Simplify.System)
 [![Documentation](https://img.shields.io/badge/docs-green.svg)](https://github.com/SimplifyNet/Simplify/wiki/Simplify.System)
 
@@ -159,7 +159,7 @@ Classes to get assembly information and ambient context for wrapping `DateTime.N
 
 [![Nuget Version](https://img.shields.io/nuget/v/Simplify.System.Sources)](https://www.nuget.org/packages/Simplify.System.Sources)
 [![Nuget Download](https://img.shields.io/nuget/dt/Simplify.System.Sources)](https://www.nuget.org/packages/Simplify.System.Sources)
-![Platform](https://img.shields.io/badge/platform-.NET%20Standard%202.0%20%7C%20.NET%204.5.2-lightgrey)
+![Platform](https://img.shields.io/badge/platform-.NET%20Standard%202.0%20%7C%20.NET%20Core%203.1%20%7C.NET%204.5.2-lightgrey)
 [![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/nuget/Simplify.System.Sources)](https://libraries.io/nuget/Simplify.System.Sources)
 [![Documentation](https://img.shields.io/badge/docs-green.svg)](https://github.com/SimplifyNet/Simplify/wiki/Simplify.System)
 
@@ -238,7 +238,7 @@ String utility functions.
 
 [![Nuget Version](https://img.shields.io/nuget/v/Simplify.Xml)](https://www.nuget.org/packages/Simplify.Xml)
 [![Nuget Download](https://img.shields.io/nuget/dt/Simplify.Xml)](https://www.nuget.org/packages/Simplify.Xml)
-![Platform](https://img.shields.io/badge/platform-.NET%20Standard%202.0%20%7C%20.NET%204.5.2-lightgrey)
+![Platform](https://img.shields.io/badge/platform-.NET%20Standard%202.0%20%7C%20.NET%20Core%203.1%20%7C.NET%204.5.2-lightgrey)
 [![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/nuget/Simplify.Xml)](https://libraries.io/nuget/Simplify.Xml)
 [![Documentation](https://img.shields.io/badge/docs-green.svg)](https://github.com/SimplifyNet/Simplify/wiki/Simplify.Xml)
 
@@ -248,7 +248,7 @@ XML extension functions and serializer.
 
 [![Nuget Version](https://img.shields.io/nuget/v/Simplify.Xml.Sources)](https://www.nuget.org/packages/Simplify.Xml.Sources)
 [![Nuget Download](https://img.shields.io/nuget/dt/Simplify.Xml.Sources)](https://www.nuget.org/packages/Simplify.Xml.Sources)
-![Platform](https://img.shields.io/badge/platform-.NET%20Standard%202.0%20%7C%20.NET%204.5.2-lightgrey)
+![Platform](https://img.shields.io/badge/platform-.NET%20Standard%202.0%20%7C%20.NET%20Core%203.1%20%7C.NET%204.5.2-lightgrey)
 [![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/nuget/Simplify.Xml.Sources)](https://libraries.io/nuget/Simplify.Xml.Sources)
 [![Documentation](https://img.shields.io/badge/docs-green.svg)](https://github.com/SimplifyNet/Simplify/wiki/Simplify.Xml)
 
