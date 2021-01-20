@@ -191,7 +191,7 @@ Cryptography functions.
 
 [![Nuget Version](https://img.shields.io/nuget/v/Simplify.Extensions)](https://www.nuget.org/packages/Simplify.Extensions)
 [![Nuget Download](https://img.shields.io/nuget/dt/Simplify.Extensions)](https://www.nuget.org/packages/Simplify.Extensions)
-![Platform](https://img.shields.io/badge/platform-.NET%20Standard%201.0%20%7C%20.NET%204.5.2-lightgrey)
+![Platform](https://img.shields.io/badge/platform-.NET%20Standard%201.0%20%7C%20.NET%20Standard%202.0%20%7C%20.NET%20Core%203.1%20%7C%20.NET%204.5.2-lightgrey)
 [![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/nuget/Simplify.Extensions)](https://libraries.io/nuget/Simplify.Extensions)
 [![Documentation](https://img.shields.io/badge/docs-green.svg)](https://github.com/SimplifyNet/Simplify/wiki/Simplify.Extensions)
 
@@ -201,7 +201,7 @@ System classes extensions.
 
 [![Nuget Version](https://img.shields.io/nuget/v/Simplify.Extensions.Sources)](https://www.nuget.org/packages/Simplify.Extensions.Sources)
 [![Nuget Download](https://img.shields.io/nuget/dt/Simplify.Extensions.Sources)](https://www.nuget.org/packages/Simplify.Extensions.Sources)
-![Platform](https://img.shields.io/badge/platform-.NET%20Standard%201.0%20%7C%20.NET%204.5.2-lightgrey)
+![Platform](https://img.shields.io/badge/platform-.NET%20Standard%201.0%20%7C%20.NET%20Standard%202.0%20%7C%20.NET%20Core%203.1%20%7C%20.NET%204.5.2-lightgrey)
 [![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/nuget/Simplify.Extensions.Sources)](https://libraries.io/nuget/Simplify.Extensions.Sources)
 [![Documentation](https://img.shields.io/badge/docs-green.svg)](https://github.com/SimplifyNet/Simplify/wiki/Simplify.Extensions)
 
