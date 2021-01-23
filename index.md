@@ -153,7 +153,7 @@ Package for getting localizable strings from assembly resource files.
 [![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/nuget/Simplify.System)](https://libraries.io/nuget/Simplify.System)
 [![Documentation](https://img.shields.io/badge/docs-green.svg)](https://github.com/SimplifyNet/Simplify/wiki/Simplify.System)
 
-Classes to get assembly information and ambient context for wrapping `DateTime.Now`, `DateTime.UtcNow`, `DateTime.Today` properties and more.
+Classes to get assembly information and ambient context for wrapping `DateTime.Now`, `DateTime.UtcNow`, `DateTime.Today` properties, system extensions and more.
 
 ### Simplify.System.Sources
 
