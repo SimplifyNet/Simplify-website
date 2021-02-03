@@ -187,6 +187,15 @@ Text templates engine with fluent-interfaces, localization and more.
 
 Cryptography functions.
 
+### Simplify.AutoMapper
+
+[![Nuget Version](https://img.shields.io/nuget/v/Simplify.AutoMapper)](https://www.nuget.org/packages/Simplify.AutoMapper)
+[![Nuget Download](https://img.shields.io/nuget/dt/Simplify.AutoMapper)](https://www.nuget.org/packages/Simplify.AutoMapper)
+![Platform](https://img.shields.io/badge/platform-.NET%20Standard%202.0-lightgrey)
+[![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/nuget/Simplify.AutoMapper)](https://libraries.io/nuget/Simplify.AutoMapper)
+
+Extension for `AutoMapper`.
+
 ### Simplify.Extensions
 
 [![Nuget Version](https://img.shields.io/nuget/v/Simplify.Extensions)](https://www.nuget.org/packages/Simplify.Extensions)
@@ -264,6 +273,15 @@ XML extension functions and serializer.
 [![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/nuget/Simplify.Windows.Forms)](https://libraries.io/nuget/Simplify.Windows.Forms)
 
 `Simplify.Windows.Forms` controls set.
+
+### Simplify.Wpf
+
+[![Nuget Version](https://img.shields.io/nuget/v/Simplify.Wpf)](https://www.nuget.org/packages/Simplify.Wpf)
+[![Nuget Download](https://img.shields.io/nuget/dt/Simplify.Wpf)](https://www.nuget.org/packages/Simplify.Wpf)
+![Platform](https://img.shields.io/badge/platform-.NET%204.6.2-lightgrey)
+[![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/nuget/Simplify.Windows.Forms)](https://libraries.io/nuget/Simplify.Windows.Forms)
+
+Windows Presentation Foundation extensions and controls.
 
 ## Contributing
 
