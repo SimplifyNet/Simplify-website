@@ -12,6 +12,13 @@ A common interface for IOC containers. Decouples users and frameworks (that are 
 
 ### Simplify.DI IOC Containers Providers
 
+#### Autofac
+
+[![Nuget Version](https://img.shields.io/nuget/v/Simplify.DI.Provider.Autofac)](https://www.nuget.org/packages/Simplify.DI.Provider.Autofac)
+[![Nuget Download](https://img.shields.io/nuget/dt/Simplify.DI.Provider.Autofac)](https://www.nuget.org/packages/Simplify.DI.Provider.Autofac)
+![Platform](https://img.shields.io/badge/platform-.NET%20Standard%202.0%20%7C%20.NET%204.6.2-lightgrey)
+[![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/nuget/Simplify.DI.Provider.Autofac)](https://libraries.io/nuget/Simplify.DI.Provider.Autofac)
+
 #### CastleWindsor
 
 [![Nuget Version](https://img.shields.io/nuget/v/Simplify.DI.Provider.CastleWindsor)](https://www.nuget.org/packages/Simplify.DI.Provider.CastleWindsor)
