@@ -146,7 +146,7 @@ SMTP mail sender with additional options and configuration.
 
 [![Nuget Version](https://img.shields.io/nuget/v/Simplify.Resources)](https://www.nuget.org/packages/Simplify.Resources)
 [![Nuget Download](https://img.shields.io/nuget/dt/Simplify.Resources)](https://www.nuget.org/packages/Simplify.Resources)
-![Platform](https://img.shields.io/badge/platform-.NET%20Standard%202.0%20%7C%20.NET%204.5.2-lightgrey)
+![Platform](https://img.shields.io/badge/platform-.NET%205.0%20%7C%20.NET%20Standard%202.0%20%7C%20.NET%204.5.2-lightgrey)
 [![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/nuget/Simplify.Resources)](https://libraries.io/nuget/Simplify.Resources)
 [![Documentation](https://img.shields.io/badge/docs-green.svg)](https://github.com/SimplifyNet/Simplify/wiki/Simplify.Resources)
 
@@ -276,7 +276,7 @@ XML extension functions and serializer.
 
 [![Nuget Version](https://img.shields.io/nuget/v/Simplify.Windows.Forms)](https://www.nuget.org/packages/Simplify.Windows.Forms)
 [![Nuget Download](https://img.shields.io/nuget/dt/Simplify.Windows.Forms)](https://www.nuget.org/packages/Simplify.Windows.Forms)
-![Platform](https://img.shields.io/badge/platform-.NET%20Core%203.1%20%7C%20.NET%204.5.2-lightgrey)
+![Platform](https://img.shields.io/badge/platform-.NET%205.0%20windows%20%7C%20.NET%20Core%203.1%20%7C%20.NET%204.5.2-lightgrey)
 [![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/nuget/Simplify.Windows.Forms)](https://libraries.io/nuget/Simplify.Windows.Forms)
 
 `Simplify.Windows.Forms` controls set.
