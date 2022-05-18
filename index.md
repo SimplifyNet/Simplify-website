@@ -23,7 +23,7 @@ A common interface for IOC containers. Decouples users and frameworks (that are 
 
 [![Nuget Version](https://img.shields.io/nuget/v/Simplify.DI.Provider.CastleWindsor)](https://www.nuget.org/packages/Simplify.DI.Provider.CastleWindsor)
 [![Nuget Download](https://img.shields.io/nuget/dt/Simplify.DI.Provider.CastleWindsor)](https://www.nuget.org/packages/Simplify.DI.Provider.CastleWindsor)
-![Platform](https://img.shields.io/badge/platform-.NET%20Standard%201.6%20%7C%20.NET%204.5.2-lightgrey)
+![Platform](https://img.shields.io/badge/platform-.NET%206.0%20%7C%20.NET%20Standard%202.0%20%7C%20.NET%204.5.2-lightgrey)
 [![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/nuget/Simplify.DI.Provider.CastleWindsor)](https://libraries.io/nuget/Simplify.DI.Provider.CastleWindsor)
 
 #### Microsoft.Extensions.DependencyInjection
