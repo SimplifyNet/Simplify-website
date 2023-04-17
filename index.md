@@ -84,7 +84,7 @@ Generic Repository, Unit of Work patterns interfaces. Domain objects base interf
 
 [![Nuget Version](https://img.shields.io/nuget/v/Simplify.Repository.FluentNHibernate)](https://www.nuget.org/packages/Simplify.Repository.FluentNHibernate)
 [![Nuget Download](https://img.shields.io/nuget/dt/Simplify.Repository.FluentNHibernate)](https://www.nuget.org/packages/Simplify.Repository.FluentNHibernate)
-![Platform](https://img.shields.io/badge/platform-.NET%20Standard%202.0%20%7C%20.NET%204.6.2-lightgrey)
+![Platform](https://img.shields.io/badge/platform-.NET%206.0%20%7C%20.NET%20Standard%202.0%20%7C%20.NET%204.6.2-lightgrey)
 [![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/nuget/Simplify.Repository.FluentNHibernate)](https://libraries.io/nuget/Simplify.Repository.FluentNHibernate)
 
 Simplify.Repository implementation for FluentNHibernate.
