@@ -89,6 +89,15 @@ Generic Repository, Unit of Work patterns interfaces. Domain objects base interf
 
 Simplify.Repository implementation for FluentNHibernate.
 
+### Simplify.Repository.EntityFramework
+
+[![Nuget Version](https://img.shields.io/nuget/v/Simplify.Repository.EntityFramework)](https://www.nuget.org/packages/Simplify.Repository.EntityFramework)
+[![Nuget Download](https://img.shields.io/nuget/dt/Simplify.Repository.EntityFramework)](https://www.nuget.org/packages/Simplify.Repository.EntityFramework)
+![Platform](https://img.shields.io/badge/platform-.NET%20Standard%202.1-lightgrey)
+[![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/nuget/Simplify.Repository.EntityFramework)](https://libraries.io/nuget/Simplify.Repository.EntityFramework)
+
+Simplify.Repository implementation for EntityFramework.
+
 ## Schedulers
 
 ### Simplify.Scheduler
