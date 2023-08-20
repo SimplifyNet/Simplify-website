@@ -75,7 +75,7 @@ FluentNHibernate easy configuration, session extensions and more.
 
 [![Nuget Version](https://img.shields.io/nuget/v/Simplify.Repository)](https://www.nuget.org/packages/Simplify.Repository)
 [![Nuget Download](https://img.shields.io/nuget/dt/Simplify.Repository)](https://www.nuget.org/packages/Simplify.Repository)
-![Platform](hhttps://img.shields.io/badge/platform-.NET%206.0%20%7C%20.NET%20Standard%202.1%20%7C%20.NET%20Standard%202.0%20%7C%20.NET%204.8-lightgrey)
+![Platform](https://img.shields.io/badge/platform-.NET%206.0%20%7C%20.NET%20Standard%202.1%20%7C%20.NET%20Standard%202.0%20%7C%20.NET%204.8-lightgrey)
 [![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/nuget/Simplify.Repository)](https://libraries.io/nuget/Simplify.Repository)
 
 Generic Repository, Unit of Work patterns interfaces. Domain objects base interfaces.
