@@ -104,7 +104,7 @@ Simplify.Repository implementation for EntityFramework.
 
 [![Nuget Version](https://img.shields.io/nuget/v/Simplify.Scheduler)](https://www.nuget.org/packages/Simplify.Scheduler)
 [![Nuget Download](https://img.shields.io/nuget/dt/Simplify.Scheduler)](https://www.nuget.org/packages/Simplify.Scheduler)
-![Platform](https://img.shields.io/badge/platform-.NET%20Standard%202.0-lightgrey)
+![Platform](https://img.shields.io/badge/platform-.NET%206.0%20%7C%20.NET%20Standard%202.1%20%7C%20.NET%20Standard%202.0%20%7C%20.NET%204.8-lightgrey)
 [![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/nuget/Simplify.Scheduler)](https://libraries.io/nuget/Simplify.Scheduler)
 [![Documentation](https://img.shields.io/badge/docs-green.svg)](https://github.com/SimplifyNet/Simplify/wiki/Simplify.Scheduler)
 
@@ -114,7 +114,7 @@ A scheduler services framework with DI. Allows you to simply create applications
 
 [![Nuget Version](https://img.shields.io/nuget/v/Simplify.WindowsServices)](https://www.nuget.org/packages/Simplify.WindowsServices)
 [![Nuget Download](https://img.shields.io/nuget/dt/Simplify.WindowsServices)](https://www.nuget.org/packages/Simplify.WindowsServices)
-![Platform](https://img.shields.io/badge/platform-.NET%204.6.2-lightgrey)
+![Platform](https://img.shields.io/badge/platform-.NET%204.8-lightgrey)
 [![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/nuget/Simplify.WindowsServices)](https://libraries.io/nuget/Simplify.WindowsServices)
 [![Documentation](https://img.shields.io/badge/docs-green.svg)](https://github.com/SimplifyNet/Simplify/wiki/Simplify.WindowsServices)
 
