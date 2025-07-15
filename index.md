@@ -42,7 +42,7 @@ A common interface for IOC containers. Decouples users and frameworks (that are 
 
 ### Simplify.DI Integrations
 
-Packages which provides ability to use Simplify.DI as IOC container in some existing technologies.
+Packages which provide the ability to use Simplify.DI as IOC container in some existing technologies.
 
 #### Microsoft.Extensions.DependencyInjection
 
@@ -149,7 +149,7 @@ SMTP mail sender with additional options and configuration.
 ![Platform](https://img.shields.io/badge/platform-.NET%206.0%20%7C%20.NET%20Standard%202.0-lightgrey)
 [![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/nuget/Simplify.Pipelines)](https://libraries.io/nuget/Simplify.Pipelines)
 
-Сonveyor objects processing patterns interfaces and base classes.
+Conveyor objects processing patterns interfaces and base classes.
 
 ### Simplify.Resources
 
@@ -258,14 +258,14 @@ XML extension functions and serializer.
 ![Platform](https://img.shields.io/badge/platform-.NET%206.0%20windows%20%7C%20.NET%20Core%203.1%20%7C%20.NET%20Framework%204.8-lightgrey)
 [![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/nuget/Simplify.Windows.Forms)](https://libraries.io/nuget/Simplify.Windows.Forms)
 
-`Simplify.Windows.Forms` controls set.
+`Simplify.Windows.Forms` control set.
 
 ### Simplify.Wpf
 
 [![Nuget Version](https://img.shields.io/nuget/v/Simplify.Wpf)](https://www.nuget.org/packages/Simplify.Wpf)
 [![Nuget Download](https://img.shields.io/nuget/dt/Simplify.Wpf)](https://www.nuget.org/packages/Simplify.Wpf)
 ![Platform](https://img.shields.io/badge/platform-.NET%20Framework%204.8-lightgrey)
-[![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/nuget/Simplify.Windows.Forms)](https://libraries.io/nuget/Simplify.Windows.Forms)
+[![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/nuget/Simplify.Wpf)](https://libraries.io/nuget/Simplify.Wpf)
 
 Windows Presentation Foundation extensions and controls.
 
@@ -284,4 +284,4 @@ There are many ways in which you can participate in the project. Like most open-
 
 ## License
 
-Licensed under the GNU LESSER GENERAL PUBLIC LICENSE
+Licensed under the GNU Lesser General Public License
