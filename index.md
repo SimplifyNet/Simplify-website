@@ -193,15 +193,6 @@ Text templates engine with fluent-interfaces, localization and more.
 
 ## Utility
 
-### Simplify.AutoMapper
-
-[![Nuget Version](https://img.shields.io/nuget/v/Simplify.AutoMapper)](https://www.nuget.org/packages/Simplify.AutoMapper)
-[![Nuget Download](https://img.shields.io/nuget/dt/Simplify.AutoMapper)](https://www.nuget.org/packages/Simplify.AutoMapper)
-![Platform](https://img.shields.io/badge/platform-.NET%206.0%20%7C%20.NET%20Standard%202.1-lightgrey)
-[![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/nuget/Simplify.AutoMapper)](https://libraries.io/nuget/Simplify.AutoMapper)
-
-Extension for `AutoMapper`.
-
 ### Simplify.IO
 
 [![Nuget Version](https://img.shields.io/nuget/v/Simplify.IO)](https://www.nuget.org/packages/Simplify.IO)
