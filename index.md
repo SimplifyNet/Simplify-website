@@ -50,6 +50,7 @@ Packages which provide the ability to use Simplify.DI as IOC container in some e
 [![Nuget Download](https://img.shields.io/nuget/dt/Simplify.DI.Integration.Microsoft.Extensions.DependencyInjection)](https://www.nuget.org/packages/Simplify.DI.Integration.Microsoft.Extensions.DependencyInjection)
 ![Platform](https://img.shields.io/badge/platform-.NET%209.0%20%7C%20.NET%20Standard%202.1%20%7C%20.NET%20Standard%202.0%20%7C%20.NET%20Framework%204.8-lightgrey)
 [![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/nuget/Simplify.DI.Integration.Microsoft.Extensions.DependencyInjection)](https://libraries.io/nuget/Simplify.DI.Integration.Microsoft.Extensions.DependencyInjection)
+[![Documentation](https://img.shields.io/badge/docs-green.svg)](https://github.com/SimplifyNet/Simplify/wiki/Simplify.DI.Microsoft.AspNetCore)
 
 #### WCF
 
@@ -77,6 +78,7 @@ FluentNHibernate easy configuration, session extensions and more.
 [![Nuget Download](https://img.shields.io/nuget/dt/Simplify.Repository)](https://www.nuget.org/packages/Simplify.Repository)
 ![Platform](https://img.shields.io/badge/platform-.NET%2010.0%20%7C%20.NET%206.0%20%7C%20.NET%20Standard%202.1%20%7C%20.NET%20Standard%202.0%20%7C%20.NET%20Framework%204.8-lightgrey)
 [![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/nuget/Simplify.Repository)](https://libraries.io/nuget/Simplify.Repository)
+[![Documentation](https://img.shields.io/badge/docs-green.svg)](https://github.com/SimplifyNet/Simplify/wiki/Simplify.Repository)
 
 Generic Repository, Unit of Work patterns interfaces. Domain objects base interfaces.
 
@@ -148,6 +150,7 @@ SMTP mail sender with additional options and configuration.
 [![Nuget Download](https://img.shields.io/nuget/dt/Simplify.Pipelines)](https://www.nuget.org/packages/Simplify.Pipelines)
 ![Platform](https://img.shields.io/badge/platform-.NET%2010.0%20%7C%20.NET%206.0%20%7C%20.NET%20Standard%202.0-lightgrey)
 [![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/nuget/Simplify.Pipelines)](https://libraries.io/nuget/Simplify.Pipelines)
+[![Documentation](https://img.shields.io/badge/docs-green.svg)](https://github.com/SimplifyNet/Simplify/wiki/Simplify.Pipelines)
 
 Conveyor objects processing patterns interfaces and base classes.
 
@@ -199,6 +202,7 @@ Text templates engine with fluent-interfaces, localization and more.
 [![Nuget Download](https://img.shields.io/nuget/dt/Simplify.IO)](https://www.nuget.org/packages/Simplify.IO)
 ![Platform](https://img.shields.io/badge/platform-.NET%2010.0%20%7C%20.NET%209.0%20%7C%20.NET%20Standard%202.1%20%7C%20.NET%20Standard%202.0%20%7C%20.NET%20Framework%204.8-lightgrey)
 [![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/nuget/Simplify.IO)](https://libraries.io/nuget/Simplify.IO)
+[![Documentation](https://img.shields.io/badge/docs-green.svg)](https://github.com/SimplifyNet/Simplify/wiki/Simplify.IO)
 
 IO utility functions.
 
@@ -208,6 +212,7 @@ IO utility functions.
 [![Nuget Download](https://img.shields.io/nuget/dt/Simplify.String)](https://www.nuget.org/packages/Simplify.String)
 ![Platform](https://img.shields.io/badge/platform-.NET%2010.0%20%7C%20.NET%206.0%20%7C%20.NET%20Standard%202.1%20%7C%20.NET%20Standard%202.0%20%7C%20.NET%20Framework%204.8-lightgrey)
 [![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/nuget/Simplify.String)](https://libraries.io/nuget/Simplify.String)
+[![Documentation](https://img.shields.io/badge/docs-green.svg)](https://github.com/SimplifyNet/Simplify/wiki/Simplify.String)
 
 String utility functions.
 
@@ -217,6 +222,7 @@ String utility functions.
 [![Nuget Download](https://img.shields.io/nuget/dt/Simplify.String.Sources)](https://www.nuget.org/packages/Simplify.String.Sources)
 ![Platform](https://img.shields.io/badge/platform-.NET%2010.0%20%7C%20.NET%206.0%20%7C%20.NET%20Standard%202.1%20%7C%20.NET%20Standard%202.0%20%7C%20.NET%20Framework%204.8-lightgrey)
 [![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/nuget/Simplify.String.Sources)](https://libraries.io/nuget/Simplify.String.Sources)
+[![Documentation](https://img.shields.io/badge/docs-green.svg)](https://github.com/SimplifyNet/Simplify/wiki/Simplify.String)
 
 `Simplify.String` source code package for embedding.
 
@@ -248,6 +254,7 @@ XML extension functions and serializer.
 [![Nuget Download](https://img.shields.io/nuget/dt/Simplify.Windows.Forms)](https://www.nuget.org/packages/Simplify.Windows.Forms)
 ![Platform](https://img.shields.io/badge/platform-.NET%206.0%20windows%20%7C%20.NET%20Core%203.1%20%7C%20.NET%20Framework%204.8-lightgrey)
 [![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/nuget/Simplify.Windows.Forms)](https://libraries.io/nuget/Simplify.Windows.Forms)
+[![Documentation](https://img.shields.io/badge/docs-green.svg)](https://github.com/SimplifyNet/Simplify/wiki/Simplify.Windows.Forms)
 
 `Simplify.Windows.Forms` control set.
 
@@ -257,6 +264,7 @@ XML extension functions and serializer.
 [![Nuget Download](https://img.shields.io/nuget/dt/Simplify.Wpf)](https://www.nuget.org/packages/Simplify.Wpf)
 ![Platform](https://img.shields.io/badge/platform-.NET%20Framework%204.8-lightgrey)
 [![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/nuget/Simplify.Wpf)](https://libraries.io/nuget/Simplify.Wpf)
+[![Documentation](https://img.shields.io/badge/docs-green.svg)](https://github.com/SimplifyNet/Simplify/wiki/Simplify.Wpf)
 
 Windows Presentation Foundation extensions and controls.
 
